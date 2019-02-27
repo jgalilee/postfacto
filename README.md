@@ -1,6 +1,8 @@
 # postfacto
 [![Build Status](https://travis-ci.org/pivotal/postfacto.svg?branch=master)](https://travis-ci.org/pivotal/postfacto)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Postfacto is a **free**, **open-source** and **self-hosted** **retro tool** aimed at helping **remote teams**.
 
 ![](media/sample-retro.png)
@@ -10,6 +12,7 @@ Postfacto was created by [Pivotal Labs](https://pivotal.io/labs) by a team in th
 ## Deployment
 
 Download the [latest release](https://github.com/pivotal/postfacto/releases) and follow the included instructions on deploying your own instance of Postfacto.
+
 
 ## Features
 

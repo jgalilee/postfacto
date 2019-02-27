@@ -1,0 +1,11 @@
+{
+  "name": "postfacto",
+  "description": "free, open-source and self-hosted retro tool aimed at helping remote teams.",
+  "repository": "https://github.com/jgalilee/postfacto",
+  "keywords": ["retros"],
+  "addons": ["heroku-redis:hobby-dev", "heroku-postgresql:hobby-dev"],
+  "scripts": {
+    "postdeploy": "bundle exec rake db:migrate"
+  }
+}
+
